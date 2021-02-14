@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Wilmington Walkabout</string>
+    <string name="titleBattleship">Battleship North Carolina</string>
+    <string name="BattleshipInfo">Explore the refurbished WWII Battleship starting with the Observation Deck. The self-guided tour features nine levels of living spaces, mess decks, gun turrets, powder storage, sick bay, and more. Serving as a memorial for the 11,000 North Carolinians who died during the war, the Battleship is open every day. This is an historic adventure you dont want to miss. The SECU Memorial Walkway around the Battleship is now open Battleship hours and is accessible and free to the public. </string>
+    <string name="titleCBSP">Carolina Beach State Park</string>
+    <string name="CBSPInfo">This popular 761 acre park includes a Visitors Center and marina/fuel dock accessing some of North Carolinas best fishing spots, and features miles of hiking trails and secluded campsites beneath towering trees with the option of tent adventures or cabins sleeping up to six people. Cabins are outfitted with double beds, bunk beds, heating/air conditioning, electrical outlets and more. Conveniently located near the Parks entrance, the Visitor Center/Exhibit Hall is wheelchair accessible with exhibits and videos. Rangers hold regularly scheduled educational programs.</string>
+    <string name="titleFortFischer">Fort Fischer State Historic Site</string>
+    <string name="FortFischerInfo">Site of Civil Wars largest Amphibious (Land and Water) Battle, the remaining portion of the gigantic Fort Fisher earthworks, along with a restored palisade fence and impressive seacoast gun, sits near the Visitors Center. The fully accessible Visitors Center and Gift Shop includes a video, exhibits, and artifacts recovered from sunken ships. A scenic trail, shaded by gnarled live oaks, leads past the earthworks, around to the rear of the fort remains. The newest exhibit "From Slave to Soldier, Free a Man" the African American Experience at Fort Fisher, highlights African Americans role in Fort Fishers story from the fortress construction to its fall, then forward to those stationed there during WWII.</string>
+    <string name="titleHauntedTour">Haunted Cotton Exchange Tour</string>
+    <string name="HauntedTourInfo">Scary, creepy and mostly ghostly tales! Chills and thrills await you at the one of the most historic and haunted locations in Downtown Wilmington, The Cotton Exchange. Tour up the stairs, down alleyways and through courtyards of the eight inter-connected buildings that have been in use since the Civil War to learn some of their stories.</string>
+
+    <string-array name="Locations" >
+        <item>Choose a Location</item>
+        <item>Carolina Beach State Park</item>
+        <item>Fort Fischer State Historic Site</item>
+        <item>Battleship North Carolina</item>
+        <item>Haunted Cotton Exchange Tour</item>
+    </string-array>
+</resources>
